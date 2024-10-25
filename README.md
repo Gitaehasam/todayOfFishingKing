@@ -71,15 +71,17 @@
 
 ## 🌟 기능
 ### 1. 어종 인식
-- Teachable Machine을 이용해 약 50여종의 어류를 이미지 분류하는 서비스
- <img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9040167-4962-4426-b08c-639a2d799bd1" width="300" />
+- Teachable Machine을 이용해 약 50여종의 어류를 인식
+ <img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9040167-4962-4426-b08c-639a2d799bd1" width="300"/>
 
 <br>
 
-### 2. 라이브 캐스팅
+### 2. 라이브 & 포토
 - 인스타그램 라이브와 비슷하게 1:N 방식으로 진행
-<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9c62deb-e1b4-4495-95cc-f1112b874123" width="300" />
-
+- 해시태그를 기반으로 물고기와 장소 자랑게시판
+<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9c62deb-e1b4-4495-95cc-f1112b874123" width="300"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/d8087274-a336-4b8d-ac83-c67860393a6a" width="300" heigth="1000" />
 <br>
 
 ### 3. 아쿠아리움
