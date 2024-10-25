@@ -1,7 +1,8 @@
 # 🐟 오늘은 낚시왕
-낚시에 입문하고자 하는 MZ세대 맞춤 초보자용 낚시 서비스
+낚시에 입문하고자 하는 MZ세대 맞춤 초보자용 낚시 서비스 🎣
 </br> 
 
+## 🛠️ 기술스택
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -21,6 +22,9 @@
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </div>
 
 <br>
@@ -36,19 +40,19 @@
 
 <br>
 
-## 서비스 목표
+## 👀 서비스 목표
 - 코로나 시기 낚시 인구가 949만명에서 1,138만명으로 약 20% 증가했습니다.
 입문자들이 낚시 용어를 어려워하는 것에서 시작해서 입문자의 즐거운 낚시를 위한 서비스를 기획했습니다.
 
 <br>
 
-## 아키텍처
-![image](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/52879aec-2ecf-4682-939a-e8594ba20bfb)
+## ⚙️ 아키텍처
+ <img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/52879aec-2ecf-4682-939a-e8594ba20bfb" width="800" />
 
 
 <br>
 
-## 기술 스택 선정 이유
+## 😶 기술 스택 선정 이유
 |Framework|선정 이유|
 |---------|---------|
 |Spring Boot|Spring과 비교했을 때 환경 설정을 쉽게 할 수 있어서 개발 생산성 증가|
@@ -65,44 +69,46 @@
 
 <br>
 
-## 기능
+## 🌟 기능
 ### 1. 어종 인식
-- Teachable Machine을 이용해 약 50여종의 어류를 이미지 분류하는 서비스   
-![어종인식](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9040167-4962-4426-b08c-639a2d799bd1)
+- Teachable Machine을 이용해 약 50여종의 어류를 인식
+ <img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9040167-4962-4426-b08c-639a2d799bd1" width="300"/>
 
 <br>
 
-### 2. 라이브 캐스팅
-- 인스타그램 라이브와 비슷하게 1:N 방식으로 진행  
-![ezgif com-optimize](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9c62deb-e1b4-4495-95cc-f1112b874123)
-
+### 2. 라이브 & 포토
+- 인스타그램 라이브와 비슷하게 1:N 방식으로 진행
+- 해시태그를 기반으로 물고기와 장소 자랑게시판
+<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/f9c62deb-e1b4-4495-95cc-f1112b874123" width="300"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/d8087274-a336-4b8d-ac83-c67860393a6a" width="300" heigth="1000" />
 <br>
 
 ### 3. 아쿠아리움
 - 내가 잡은 물고기로 꾸미는 나만의 아쿠아리움  
-- three.js를 사용하여 생생하게 움직이는 물고기를 볼 수 있음  
-![aquarium](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/2ae55be9-75f8-4441-9cf9-d4ad3343f575)
+- three.js를 사용하여 생생하게 움직이는 물고기를 볼 수 있음
+<img src="https://github.com/user-attachments/assets/ba582249-b5e1-4b42-805c-baddefabf751" width="300" />
 
 <br>
 
 ### 4. 초보자 튜토리얼
 - 한 단계씩 사진/움짤, 한 줄 멘트를 넣음  
-![가이드북](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/aadeb5b0-6d06-46a9-b4d6-9402e2f224b4)
+<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/aadeb5b0-6d06-46a9-b4d6-9402e2f224b4" width="300" />
 
 <br>
 
 ### 5. 도감
-![fishbook](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/54caac35-9b43-4009-b9d2-789edc1bffa9)
+<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/54caac35-9b43-4009-b9d2-789edc1bffa9" width="300" />
 
 <br>
 
 ### 6. 챗봇을 이용한 낚시 용어 검색  
-![chatbot](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/0c0110bd-c4da-45dd-94bb-4024ab636fbd)
+<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/0c0110bd-c4da-45dd-94bb-4024ab636fbd" width="300" />
 
 <br>
 
 ### 7. 사용자 후기와 해시태그로 검색하는 맞춤형 낚시터 찾기  
-![낚시터](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/58ea8962-53d1-4f3c-8c77-86140115f974)
+<img src="https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/58ea8962-53d1-4f3c-8c77-86140115f974" width="300" />
 
 <br>
 
@@ -110,7 +116,6 @@
 - 동시 접속 사용자 수는 105명, 초당 처리량 17 ~ 50개을 목표로 성능 테스트를 진행 
 - 로컬 캐시인 Ehcache를 이용하고, 2차 캐시를 적용하여 기존 대비 2배 성능 개선
 ![성능테스트](https://github.com/Gitaehasam/fishingKingOfToday/assets/46569105/6b285196-7bd4-4a18-ab7b-109a2f122b29)
-
 <br>
 
 ## 회고
@@ -139,7 +144,7 @@
 - 승경: Gather 코어타임처럼 평일의 코어타임이 있었으면 좋겠습니다.
 - 태윤: 필요없는 코드는 꼭 제발 지우길…
 - 지연: 남은 2월달에 인간젠킨스가 되어 인프라 공부하겠습니다, JIRA 공부하겠읍니다 모처럼 유료툴을 싸피에서 지원해준다는데 마음껏 써야죠!
-- 자영: next.js 해봅시다
+- 자영: 컨벤션 문서화 하기!! 커밋 횟수 늘이기!!
 
 <br>
 
